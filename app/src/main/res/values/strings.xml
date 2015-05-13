@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name = "button_text">Button for Notification</string>
+    <string name = "warning">Последнее китайское предупреждение!</string>
+    <string name = "notifytitle">Напоминание</string>
+    <string name = "notifytext">Пора кормить кота!</string>
+</resources>
